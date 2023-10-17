@@ -34,6 +34,10 @@ const operators= ['+','-','*','/'];
 					formule_el.value = formule_el.value + eval(chiffre.substring(0,chiffre.length-1));
 				}
 				result_el.textContent = eval(formule_el.value);
+
+				if(result_el.textContent === "Infinity"){
+					result_el.textContent = "erreur"
+				}
 			}
 			
 		//  Vider champs formule et résultat
