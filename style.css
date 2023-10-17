@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #d6c9f0;
+    background-color: #aca7b5;
     width: 99%;
     height: auto;
     display: flex;
@@ -38,18 +38,31 @@ h1 {
     display: flex;
     flex-direction: column;
     background-color: black;
+    border-radius: 10px;
     margin: 0.5rem;
 }
 
+
+#formule {
+    background-color: #D6E3EF;
+    border: none;
+    font-size: 3rem;
+    width: 80%;
+}
+
+#result {
+    font-size: 3rem; 
+    text-align: left;
+}
+
 .screen {
-    background-color: #D6E3EF
-    ;
+    background-color: #D6E3EF;
     width: 96%;
     height: 11rem;
     display: flex;
     justify-self: flex-end;
     align-items: flex-end;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 10px;
 }
 
