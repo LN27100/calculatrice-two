@@ -1,4 +1,4 @@
-let operators= ['+','-','*','/'];
+const operators= ['+','-','*','/'];
 			let formule_el = document.getElementById("formule");
 			let result_el = document.getElementById("result");
 
@@ -27,7 +27,7 @@ let operators= ['+','-','*','/'];
 			
 			//  Clic sur "="
 			function egal(){
-				var chiffre = formule_el.value;
+				let chiffre = formule_el.value;
 				// Si la formule se termine par un operator
 				if(operators.indexOf(chiffre.charAt(chiffre.length-1 )) !=-1 ){
 					//Calculer le résultats avec le résultat donné par le dernier operator
