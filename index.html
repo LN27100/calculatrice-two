@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculatrice</title>
+</head>
+
+<body>
+
+    <div class="container">
+       
+            <h1>Calculator 3000</h1>
+
+
+        <div class="calculatrice">
+            <div class="screen">
+                <input type="text" value="" id="formule" />
+                <div id="result"></div>
+            </div>
+            <div class="touches">
+                <button class="boutonReset" onclick="erase()">AC</button>
+                <button class="boutonDivis" value="/" onclick="click_touch('/');">/</button>
+                <button class="boutonMulti" value="*" onclick="click_touch('*');">*</button>
+                <button class="boutonMoins" value="-" onclick="click_touch('-');">-</button>
+                <button class="boutonSeven" value="7" onclick="click_touch(7);">7</button>
+                <button class="boutonEight" value="8" onclick="click_touch(8);">8</button>
+                <button class="boutonNine" value="9" onclick="click_touch(9);">9</button>
+                <button class="boutonPlus" value="+" onclick="click_touch('+');">+</button>
+                <button class="boutonFour" value="4" onclick="click_touch(4);">4</button>
+                <button class="boutonFive" value="5" onclick="click_touch(5);">5</button>
+                <button class="boutonSix" value="6" onclick="click_touch(6);">6</button>
+                <button class="boutonOne" value="1" onclick="click_touch(1);">1</button>
+                <button class="boutonTwo"value="2" onclick="click_touch(2);">2</button>
+                <button class="boutonThree" value="3" onclick="click_touch(3);">3</button>
+                <button class="boutonZero" value="0" onclick="click_touch(0);">0</button>
+                <button class="boutonEgal" value="=" onclick="egal();">=</button>
+                <button class="boutonPoint" value="." onclick="click_touch('.');">.</button>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body>
+
+<script src="script.js"></script>
+
+</html>
