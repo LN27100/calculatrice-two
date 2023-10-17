@@ -70,8 +70,8 @@ h1 {
 
 
 #formule {
-    background: radial-gradient(circle, rgba(127,143,140,1) 0%, rgba(91,110,106,1) 100%);
-    border: none;
+background-color: #70827e;   
+ border: none;
     font-size: 3rem;
     width: 80%;
     font-family: 'Tilt Neon', sans-serif;
@@ -83,10 +83,11 @@ h1 {
     font-size: 3rem;
     text-align: left;
     font-family: 'Tilt Neon', sans-serif;
+    margin-right: 0.1rem;
 }
 
 .screen {
-    background: radial-gradient(circle, rgba(127,143,140,1) 0%, rgba(91,110,106,1) 100%);
+    background: radial-gradient(circle, rgba(112,130,126,0.9304096638655462) 0%, rgba(120,137,133,1) 100%);
     width: 96%;
     height: 11rem;
     display: flex;
