@@ -11,7 +11,8 @@ let operators= ['+','-','*','/'];
 					formule_el.value = "";
 
 					// si on a cliqué sur un operator
-					if(operators.indexOf(value) != -1){
+					if(operators.indexOf(value) != -1){  // Savoir si une chaîne de caractères contient un caractère rechercher et le renvoie avec sa position, Si il n'est pas trouvé, la valeur de retour sera -1.
+						
 						// On concate le résultat précédent
 						formule_el.value = result_el.textContent;
 					}
