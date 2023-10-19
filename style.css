@@ -4,6 +4,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
 /* font-family: 'Tilt Neon', sans-serif; */
 
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+/* font-family: 'Allerta Stencil', sans-serif; */
 
 * {
     padding: 0;
@@ -114,6 +116,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonPoint:hover {
@@ -129,6 +133,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 
 }
 
@@ -145,6 +151,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonDivis:hover {
@@ -160,6 +168,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonMulti:hover {
@@ -175,6 +185,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonMoins:hover {
@@ -190,6 +202,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonSeven:hover {
@@ -205,6 +219,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 
 }
 
@@ -221,6 +237,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 
 }
 
@@ -237,6 +255,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonFour:hover {
@@ -252,6 +272,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonFive:hover {
@@ -267,6 +289,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonTwo:hover {
@@ -282,6 +306,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonThree:hover {
@@ -297,6 +323,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonOne:hover {
@@ -312,6 +340,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonSix:hover {
@@ -327,6 +357,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonZero:hover {
@@ -342,6 +374,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonPlus:hover {
@@ -357,6 +391,8 @@ h1 {
     border-style: inset;
     border-width: 3px;
     color: black;
+    font-family: 'Allerta Stencil', sans-serif;
+
 }
 
 .boutonEgal:hover {
