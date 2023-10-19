@@ -50,7 +50,8 @@ h1 {
 }
 
 .fa-solid {
-    margin-left: 2rem;
+    margin-left: 1.2rem;
+    font-size: 1.3rem;
 }
 
 .calculatrice {
@@ -75,7 +76,9 @@ h1 {
     background: radial-gradient(circle, rgba(107, 124, 120, 1) 0%, rgba(115, 132, 128, 1) 100%);
     border: none;
     font-size: 3rem;
-    width: 80%;
+    width: 100%;
+    margin-right: 0.2rem;
+    height: 4rem;
     font-family: 'Tilt Neon', sans-serif;
     text-align: center;
     margin-bottom: 4.2rem;
@@ -85,7 +88,7 @@ h1 {
     font-size: 3rem;
     text-align: left;
     font-family: 'Tilt Neon', sans-serif;
-    margin-right: 0.1rem;
+    margin-right: 0.2rem;
 }
 
 .screen {
